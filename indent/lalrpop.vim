@@ -13,7 +13,7 @@ endif
 let b:did_indent = 1
 
 setlocal cindent
-setlocal cinoptions=L0,(s,Ws,J1,j1,m1
+setlocal cinoptions=L0,(s,Ws,J1,j1,m1,n-4
 setlocal cinkeys=0{,0},!^F,o,O,0[,0],0(,0)
 
 " Some preliminary settings
